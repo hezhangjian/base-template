@@ -1,4 +1,4 @@
 cmake_minimum_required(VERSION 3.31)
-project([Project Name] C)
+project(project-name C)
 
 set(CMAKE_C_STANDARD 23)
